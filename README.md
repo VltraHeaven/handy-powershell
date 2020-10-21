@@ -1,4 +1,4 @@
-# Essential Powershell
+# Handy Powershell
 
 ![logo](https://dashboard.snapcraft.io/site_media/appmedia/2018/09/Powershell_av_colors.ico.png)
 
