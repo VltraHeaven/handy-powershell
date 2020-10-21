@@ -1,6 +1,6 @@
 # Essential Powershell
 
-![logo](https://duckduckgo.com/?q=powershell+.png+microsoft&t=h_&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F2%2F2f%2FPowerShell_5.0_icon.png)
+![logo](https://dashboard.snapcraft.io/site_media/appmedia/2018/09/Powershell_av_colors.ico.png)
 
 ## Scripts
 
